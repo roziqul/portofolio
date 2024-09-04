@@ -1,35 +1,41 @@
-# Roziqul Portfolio Repository
+# **Roziqul's Portfolio Repository**
 
-This repository contains several projects that I have worked on in the past and that I am currently working on.
+Selamat datang di repository ini! Di sini, Anda akan menemukan berbagai proyek yang telah saya kerjakan maupun yang sedang dalam tahap pengembangan. Setiap proyek dirancang dengan dedikasi tinggi dan penuh perhatian terhadap detail. Mari kita telusuri karya-karya yang telah saya ciptakan:
 
-1. **YourFashion (2021)** - An e-commerce application for shoe sales.
-   - [More about YourFashion](project1/README.md)
+### 🌟 **Edulink - 01**: Website Profil Sekolah
+Sebuah platform profesional yang menampilkan profil lengkap sekolah, dirancang untuk mencerminkan identitas dan visi pendidikan yang kuat.
+- [Lihat Detail Proyek](project1/README.md)
 
-2. **Dotify (2022)** - An employee attendance system that I worked on during my internship.
-   - [More about Dotify](project2/README.md)
+### 🌟 **Edulink - 02**: Sistem PPDB Sekolah Menengah Atas Berbasis Web
+Sistem penerimaan siswa baru berbasis web yang efisien dan mudah digunakan, membantu sekolah mengelola proses pendaftaran dengan lebih baik.
+- [Lihat Detail Proyek](project2/README.md)
 
-3. **Admisi - PSB (2022)** - A web-based student admission system that I built as a thesis project.
-   - [More about Admisi - PSB](project3/README.md)
-  
-4. **BP - EMS (2023)** - Employee attendance system that I have worked on when freelancing.
-   - [More about BP - EMS](project4/README.md)
-  
-5. **Dashboard SIRIDOAJA (2024)** - Creating a dashboard page for the Blitar district tax payment website.
-   - [More about Dashboard SIRIDOAJA](project5/README.md)
-  
-6. **SMP Unggulan Noval Student Admission System (2024)** - A web-based student admission system that i have worked on when freelancing.
-   - [More about SMP Unggulan Noval Student Admission System](project6/README.md)
-  
-7. **Edu-Link 01 (2024)** - A school profile website that I built while freelancing.
-   - [More about Edu-Link 01](project7/README.md)
+### 🌟 **Edulink - 03**: Sistem Administrasi Perpustakaan Sekolah
+Sistem manajemen perpustakaan yang memungkinkan pengelolaan koleksi buku dan peminjaman dengan lebih terstruktur dan mudah.
+- [Lihat Detail Proyek](project3/README.md)
 
-8. **Edu-Link 02 (2024)** - A web-based student admission system that I built as an improvement on the student admission system that I previously built.
-   - [More about Edu-Link 02](project8/README.md)
-  
-9. **Edu-Link 03 (2024)** - A school library administration system that i built while freelancing.
-   - [More about Edu-Link 03](project9/README.md)
-  
-10. **Suncatcher (2024)** - A company profile website that I built for my client.
-   - [More about Suncatcher](project10/README.md)
+### 🌍 **Suncatcher**: Website Perusahaan Tour dan Travel
+Sebuah situs web yang indah dan informatif untuk perusahaan tour dan travel, memberikan pengalaman terbaik bagi calon wisatawan.
+- [Lihat Detail Proyek](project10/README.md)
 
-Each project is contained in its own directory and includes its own README with details about the project description.
+### 🎬 **Movie Recommender**: Website Rekomendasi Film Berbasis Perasaan Pengguna
+Situs web inovatif yang memberikan rekomendasi film berdasarkan suasana hati dan preferensi pengguna.
+- [Lihat Detail Proyek](project4/README.md)
+
+### 📊 **Dashboard SIRIDOAJA**: Revamp Halaman Dasbor Bapenda Kab Blitar
+Desain ulang yang dinamis untuk halaman dasbor SIRIDOAJA, meningkatkan fungsionalitas dan tampilan visual.
+- [Lihat Detail Proyek](project5/README.md)
+
+### 🎓 **Haro Education Profile + CRM Implementation**: Website Bisnis dan Implementasi CRM
+Website bisnis yang menampilkan profil perusahaan serta implementasi CRM B2C melalui broadcast email untuk meningkatkan hubungan dengan pelanggan.
+- [Lihat Detail Proyek](project5/README.md)
+
+### 💻 **Laptopinazaa**: Website E-Commerce Laptop
+Platform e-commerce yang modern dan mudah digunakan, khusus untuk penjualan laptop dengan fitur lengkap.
+- [Lihat Detail Proyek](project5/README.md)
+
+---
+
+Setiap proyek disimpan dalam direktori masing-masing dan dilengkapi dengan README yang mendetail mengenai deskripsi proyek. Silakan klik pada tautan "Lihat Detail Proyek" untuk informasi lebih lanjut tentang setiap proyek.
+
+---
