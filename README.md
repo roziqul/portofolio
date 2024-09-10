@@ -20,7 +20,7 @@ Sebuah situs web yang indah dan informatif untuk perusahaan tour dan travel, mem
 
 ### 🎬 **Movie Recommender**: Website Rekomendasi Film Berbasis Perasaan Pengguna
 Situs web inovatif yang memberikan rekomendasi film berdasarkan suasana hati dan preferensi pengguna.
-- [Lihat Detail Proyek](project4/README.md)
+- [Lihat Detail Proyek](www.google.com)
 
 ### 📊 **Dashboard SIRIDOAJA**: Revamp Halaman Dasbor Bapenda Kab Blitar
 Desain ulang yang dinamis untuk halaman dasbor SIRIDOAJA, meningkatkan fungsionalitas dan tampilan visual.
